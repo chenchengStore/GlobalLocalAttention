@@ -1,2 +1,2 @@
 # GlobalLocalAttention
-the GlobalLocalAttention block
+The GlobalLocalAttention block
